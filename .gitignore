@@ -1,6 +1,6 @@
 # Let's get rid of temporary files
-~$.doc*
-~$.ppt*
+~$*.doc*
+~$*.ppt*
 
 # History files
 .Rhistory
