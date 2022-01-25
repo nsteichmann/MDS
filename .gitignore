@@ -1,3 +1,7 @@
+# Let's get rid of temporary files
+~$.doc*
+~$.ppt*
+
 # History files
 .Rhistory
 .Rapp.history
